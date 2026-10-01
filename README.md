@@ -17,6 +17,14 @@
 
 ---
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/zxlavsstr/zxlavsstr/main/assets/pacman-maze.svg" width="100%" alt="Animated neon Pac-Man maze" />
+
+</div>
+
+---
+
 ## 🧑‍💻 About Me
 
 I'm a developer focused on turning ideas into **real, useful products**.
