@@ -1,13 +1,15 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=ZEA&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&color=0:111827,100:2563eb" width="100%"/>
+
 # 👋 Hey, I'm Zea
 
 ### `Developer • Builder • Problem Solver`
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&center=true&vCenter=true&width=650&lines=Building+useful+things+from+scratch;Currently+building+Logistics+LMS;Learning+%7C+Building+%7C+Shipping;Turning+ideas+into+real+products" alt="Typing SVG" />
+
 <p>
-  <a href="https://github.com/zxlavsstr">
-    <img src="https://img.shields.io/badge/GitHub-zxlavsstr-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://github.com/zxlavsstr"><img src="https://img.shields.io/badge/GitHub-zxlavsstr-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Indonesia-🇮🇩-red?style=for-the-badge" />
 </p>
 
@@ -15,33 +17,35 @@
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-I'm a developer who enjoys turning ideas into **real, useful products**.
+I'm a developer focused on turning ideas into **real, useful products**.
 
-Currently exploring:
-
-- 💻 Web development
-- 🚚 Logistics & business systems
-- 🤖 AI-powered applications
-- 🎮 Gaming & streaming
-- ⚡ Building projects from scratch
+- 💻 Exploring modern web development
+- 🚚 Building logistics & business systems
+- 🤖 Interested in AI-powered applications
+- 🎮 Gaming, streaming & content creation
+- ⚡ Learning by building real projects
 
 > **Build it. Break it. Fix it. Ship it.**
 
 ---
 
-## 🧠 What I'm Building
+## 🚚 Currently Building
 
-### 🚚 Logistics LMS
+<div align="center">
 
-A logistics management system focused on making operational workflows simpler and more organized.
+### Logistics LMS
 
-**Current focus:**
+**A logistics management system designed to simplify operational workflows.**
 
 `Invoice Tracking` · `Shipment Tracking` · `Operations` · `Dashboard`
 
-🔗 **Repository:** https://github.com/zxlavsstr/logistics-lms
+<a href="https://github.com/zxlavsstr/logistics-lms">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
@@ -49,56 +53,43 @@ A logistics management system focused on making operational workflows simpler an
 
 <div align="center">
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,postgres,mongodb,git,github,vscode,vercel" />
 
 </div>
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zxlavsstr&show_icons=true&hide_border=true&theme=transparent" height="170" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=zxlavsstr&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxlavsstr&layout=compact&hide_border=true&theme=transparent" height="170" />
 
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=zxlavsstr&hide_border=true&theme=transparent" />
+
 </div>
 
 ---
 
-## 📈 Contribution
+## 🎯 2026 Focus
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zxlavsstr&hide_border=true&theme=transparent" />
+| Focus | Goal |
+|:---|:---|
+| 🚀 Build | Ship useful products |
+| 💻 Code | Improve development skills |
+| 🧠 Learn | Explore AI & modern web tech |
+| 📦 Launch | Turn projects into real tools |
 
 </div>
 
 ---
 
-## 🎯 Current Goals
-
-```text
-[████████████████░░░░] Build better products
-[██████████████░░░░░░] Improve coding skills
-[████████████░░░░░░░░] Launch useful projects
-[██████████░░░░░░░░░░] Build something of my own
-```
-
----
-
-## 🌐 Connect
+## 🌐 Find Me
 
 <div align="center">
 
@@ -116,8 +107,12 @@ A logistics management system focused on making operational workflows simpler an
 
 **"Don't just learn how to build. Build something worth using."**
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=zxlavsstr&style=flat-square&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=zxlavsstr&style=flat-square" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2563eb,100:111827" width="100%"/>
 
 </div>
