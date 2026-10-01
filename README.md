@@ -31,19 +31,48 @@ I'm a developer focused on turning ideas into **real, useful products**.
 
 ---
 
-## 🚚 Currently Building
+## ⭐ Featured Project
 
-<div align="center">
+<table>
+<tr>
+<td width="70%">
 
-### Logistics LMS
+### 🚚 Logistics LMS
 
-**A logistics management system designed to simplify operational workflows.**
+> **A logistics management system designed to simplify operational workflows.**
+
+**Core modules**
 
 `Invoice Tracking` · `Shipment Tracking` · `Operations` · `Dashboard`
 
+**Status:** `🚧 In Development`
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://img.shields.io/badge/LOGISTICS-LMS-2563EB?style=for-the-badge&logo=truck&logoColor=white" />
+
+<br><br>
+
 <a href="https://github.com/zxlavsstr/logistics-lms">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📦 Project Highlights
+
+<div align="center">
+
+| 🚚 Logistics | 🧾 Invoice | 📊 Dashboard |
+|:---:|:---:|:---:|
+| Shipment workflow | Invoice tracking | Operational overview |
+| Status tracking | Payment status | Data visibility |
+| Built for real workflows | Organized records | Centralized information |
 
 </div>
 
