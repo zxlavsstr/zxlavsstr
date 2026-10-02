@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=ZEA&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&color=0:111827,100:2563eb" width="100%"/>
 
-# 👋 Hey, I'm Zea
+# 👋 Hey, I'm ecta
 
 ### `Developer • Builder • Problem Solver`
 
