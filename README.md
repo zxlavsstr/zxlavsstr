@@ -1,17 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=ZEA&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&color=0:111827,100:2563eb" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ZXLAVSSTR&fontSize=62&fontAlignY=35&animation=fadeIn&fontColor=00f0ff&color=0:020617,45:0f172a,100:111827" width="100%"/>
 
-# 👋 Hey, I'm ecta
+# `// SYSTEM ONLINE`
 
-### `Developer • Builder • Problem Solver`
+### `DIGITAL BUILDER • LOGISTICS • WEB • GAMING`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&center=true&vCenter=true&width=650&lines=Building+useful+things+from+scratch;Currently+building+Logistics+LMS;Learning+%7C+Building+%7C+Shipping;Turning+ideas+into+real+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2400&pause=700&color=00F0FF&center=true&vCenter=true&width=720&lines=Initializing+ZXLAVSSTR...;Building+real-world+digital+systems;Currently+shipping+Logistics+LMS;Code+%7C+Build+%7C+Break+%7C+Rebuild;System+status%3A+ONLINE" alt="Typing SVG" />
 
-<p>
-  <a href="https://github.com/zxlavsstr"><img src="https://img.shields.io/badge/GitHub-zxlavsstr-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Indonesia-🇮🇩-red?style=for-the-badge" />
-</p>
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00f0ff?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/LOCATION-INDONESIA-00f0ff?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/MODE-BUILDING-00f0ff?style=for-the-badge&labelColor=020617" />
 
 </div>
 
@@ -19,120 +20,106 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zxlavsstr/zxlavsstr/main/assets/pacman-maze.svg" width="100%" alt="Animated neon Pac-Man maze" />
+<img src="https://raw.githubusercontent.com/zxlavsstr/zxlavsstr/main/assets/pacman-maze.svg" width="100%" alt="Neon Pac-Man maze" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## `01 // ABOUT_ME`
 
-I'm a developer focused on turning ideas into **real, useful products**.
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ USER        : ZXLAVSSTR                                      │
+│ ROLE        : DIGITAL BUILDER                               │
+│ SPECIALTY   : WEB / LOGISTICS / BUSINESS SYSTEMS            │
+│ INTERESTS   : AI / GAMING / STREAMING / AUTOMATION           │
+│ PHILOSOPHY  : BUILD > BREAK > FIX > SHIP                    │
+└──────────────────────────────────────────────────────────────┘
+```
 
-- 💻 Exploring modern web development
-- 🚚 Building logistics & business systems
-- 🤖 Interested in AI-powered applications
-- 🎮 Gaming, streaming & content creation
-- ⚡ Learning by building real projects
+I build practical digital products from real-world problems — especially systems that make messy workflows simpler, faster, and easier to track.
 
-> **Build it. Break it. Fix it. Ship it.**
+- 🚚 Logistics & operational systems
+- 💻 Modern web development
+- 🤖 AI-powered applications
+- 🎮 Gaming & streaming experiments
+- ⚡ Learning by shipping real projects
 
 ---
 
-## ⭐ Featured Project
+## `02 // ACTIVE_PROJECT`
 
-<table>
-<tr>
-<td width="70%">
+<div align="center">
 
-### 🚚 Logistics LMS
+### 🚚 `LOGISTICS_LMS`
 
-> **A logistics management system designed to simplify operational workflows.**
+**LOGISTICS MANAGEMENT & TRACKING SYSTEM**
 
-**Core modules**
+`INVOICE` `MANIFEST` `SHIPMENT` `TRACKING` `DASHBOARD`
 
-`Invoice Tracking` · `Shipment Tracking` · `Operations` · `Dashboard`
-
-**Status:** `🚧 In Development`
-
-</td>
-<td width="30%" align="center">
-
-<img src="https://img.shields.io/badge/LOGISTICS-LMS-2563EB?style=for-the-badge&logo=truck&logoColor=white" />
+<img src="https://img.shields.io/badge/BUILD-ONGOING-00f0ff?style=for-the-badge&labelColor=020617" />
 
 <br><br>
 
 <a href="https://github.com/zxlavsstr/logistics-lms">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/ACCESS_REPOSITORY-00f0ff?style=for-the-badge&logo=github&logoColor=020617&labelColor=020617" />
 </a>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 📦 Project Highlights
+## `03 // TECH_MATRIX`
 
 <div align="center">
 
-| 🚚 Logistics | 🧾 Invoice | 📊 Dashboard |
-|:---:|:---:|:---:|
-| Shipment workflow | Invoice tracking | Operational overview |
-| Status tracking | Payment status | Data visibility |
-| Built for real workflows | Organized records | Centralized information |
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,postgres,mongodb,git,github,vscode,vercel&theme=dark" />
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## `04 // GITHUB_TELEMETRY`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,postgres,mongodb,git,github,vscode,vercel" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zxlavsstr&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxlavsstr&layout=compact&hide_border=true&theme=transparent" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=zxlavsstr&show_icons=true&hide_border=true&bg_color=020617&title_color=00f0ff&text_color=cbd5e1&icon_color=00f0ff&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxlavsstr&layout=compact&hide_border=true&bg_color=020617&title_color=00f0ff&text_color=cbd5e1" height="170" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=zxlavsstr&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=zxlavsstr&hide_border=true&background=020617&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&sideLabels=cbd5e1&dates=64748b" />
 
 </div>
 
 ---
 
-## 🎯 2026 Focus
+## `05 // CURRENT_MISSION`
 
-<div align="center">
+```text
+[████████████████████░░░░] 80%
 
-| Focus | Goal |
-|:---|:---|
-| 🚀 Build | Ship useful products |
-| 💻 Code | Improve development skills |
-| 🧠 Learn | Explore AI & modern web tech |
-| 📦 Launch | Turn projects into real tools |
-
-</div>
+> BUILD useful products
+> SHIP real systems
+> LEARN modern technology
+> EXPLORE AI
+> TURN ideas into working software
+```
 
 ---
 
-## 🌐 Find Me
+## `06 // CONNECT`
 
 <div align="center">
 
 <a href="https://github.com/zxlavsstr">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-00f0ff?style=for-the-badge&logo=github&logoColor=020617&labelColor=020617" />
 </a>
+
+<br><br>
+
+`[ CONNECTION ESTABLISHED ]`
 
 </div>
 
@@ -140,16 +127,18 @@ I'm a developer focused on turning ideas into **real, useful products**.
 
 <div align="center">
 
-### 💭
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║       DON'T JUST WRITE CODE. BUILD SOMETHING.       ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
 
-**"Don't just learn how to build. Build something worth using."**
+<img src="https://komarev.com/ghpvc/?username=zxlavsstr&style=flat-square&color=00f0ff" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=zxlavsstr&style=flat-square" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2563eb,100:111827" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:111827,55:0f172a,100:020617" width="100%"/>
 
 </div>
